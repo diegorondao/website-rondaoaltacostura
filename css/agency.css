@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: black;
 }
 
 a:hover,
@@ -209,13 +209,13 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #b99d5b;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #fed136;
+    color: #b9baba; 
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header06-bg.jpg);
+    background-image: url(../img/header04-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
